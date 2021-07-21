@@ -15,11 +15,14 @@ const NewSlice = ({ slice }) => (
       <RichText render={slice.primary.description}/>
       : <p>start by editing this slice from inside Prismic builder!</p>
     }
+    <img src={slice.primary.mainImage.url} alt={slice.primary.mainImage.alt} />
     <style jsx>{`
         section {
           max-width: 600px;
           margin: 4em auto;
           text-align: center;
+          background-color: ${slice.primary.backgroundColor};
+          padding: 16px;
         }
         .title {
           color: #8592e0;

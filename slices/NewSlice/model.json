@@ -26,8 +26,24 @@
             "label": "Description",
             "placeholder": "A nice description of your feature"
           }
+        },
+        "mainImage": {
+          "config": {
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "backgroundColor": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Color"
         }
-      }
+      },
+      "items": {}
     }
   ]
 }

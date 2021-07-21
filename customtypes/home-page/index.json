@@ -31,6 +31,9 @@
             },
             "text_slice": {
               "type": "SharedSlice"
+            },
+            "new_slice": {
+              "type": "SharedSlice"
             }
           }
         }
