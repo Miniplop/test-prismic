@@ -1,0 +1,24 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "new_slice",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Unleash e-business web-readiness",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Fugiat enim reprehenderit dolor consequat laborum eiusmod voluptate deserunt mollit sunt aliquip velit velit.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
